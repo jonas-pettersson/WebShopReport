@@ -1,0 +1,6 @@
+*.xlsx
+*.xlsm
+*.csv
+*.pdf
+!*template.xlsx
+.ipynb_checkpoints
