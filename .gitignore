@@ -2,5 +2,5 @@
 *.xlsm
 *.csv
 *.pdf
-!/templates/
+!/templates/*
 .ipynb_checkpoints
