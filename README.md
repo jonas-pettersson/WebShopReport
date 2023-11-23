@@ -1,1 +1,1 @@
-The export of reports for the web shop of the Swedisch Church in Vienna
+The export of reports for the web shop of the Swedish Church in Vienna
